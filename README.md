@@ -1,3 +1,4 @@
+[![GuardRails badge](https://api.guardrails.io/v2/badges/255756?token=ff13f4db148a1c7907a53bda11769076787a9b72a4704e09437417509471896a)](https://dashboard.guardrails.io/gh/olivenbarcelon/repos/255756)
 # user-management
 User Management System
 
