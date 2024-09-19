@@ -19,7 +19,4 @@ User Management System
 * vendor/bin/phpunit
 
 **Dependencies**
-* Laravel-Modules
-    * composer require nwidart/laravel-modules
-    * php artisan vendor:publish --provider="Nwidart\Modules\LaravelModulesServiceProvider"
-    * composer dump-autoload
+* [Laravel-Modules](https://nwidart.com/laravel-modules/v6/introduction)
